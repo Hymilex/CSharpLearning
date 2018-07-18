@@ -12,6 +12,7 @@ namespace Basic
     class Person
     {
         public string name;
+        private int age;
         //静态成员
         public static Person ps;
 
@@ -30,6 +31,23 @@ namespace Basic
             }
         }
 
+        //get & set another way to implent.
+        public int Age
+        {
+            get
+            {
+                return age;
+            }
+            set
+            {
+                if (value < 0 || value > 120)
+                { 
+                    throw(new ArgumentOutOfRangeException("AgeIntProperty",value,"Age has its own range."));
+                    //age = value;
+                }
+                age = value;
+            }
+        }
 
         //get & set 访问器
         public string Name
@@ -72,7 +90,21 @@ namespace Basic
             Console.WriteLine("DestroyFunction has been invoked.");
             Console.ReadKey();
         }
+    }
 
-        
+    /// <summary>
+    /// 结构体和类之间:
+    /// 1.结构体中的每个成员都要在构造函数中进行定义
+    /// 2.结构体和类是值类型和引用类型
+    /// </summary>
+    struct Point
+    {
+        private int X;
+        private int Y;
+        public Point(int x ,int y)
+        {
+            this.X = x;
+            this.Y = y;
+        }
     }
 }
