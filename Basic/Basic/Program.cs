@@ -31,6 +31,17 @@ namespace Basic
             p4[2] = "world";
             Console.WriteLine(p4[0]+" "+p4[2]);
 
+            Horse hrs1 = new Horse();
+            hrs1.Age = 2;
+
+            Horse hrs2 = new Horse(666);
+            hrs2.Age = 3;
+
+            Animal hrs3 = new Horse(1);
+            hrs3.Voice();
+
+            Horse hrs4 = new Horse(5);
+            hrs4.Voice();
         }
     }
 }
