@@ -1,0 +1,6 @@
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Upgrade\bin\Debug\Upgrade.exe.config
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Upgrade\obj\Debug\Upgrade.csprojResolveAssemblyReference.cache
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Upgrade\bin\Debug\Upgrade.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Upgrade\bin\Debug\Upgrade.pdb
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Upgrade\obj\Debug\Upgrade.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Upgrade\obj\Debug\Upgrade.pdb
