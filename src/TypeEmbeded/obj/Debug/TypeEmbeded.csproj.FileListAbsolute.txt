@@ -1,1 +1,6 @@
 F:\homework\review\C#\learningHardCSharp\Class\Basic\TypeEmbeded\bin\Debug\TypeEmbeded.exe.config
+F:\homework\review\C#\learningHardCSharp\Class\Basic\TypeEmbeded\bin\Debug\TypeEmbeded.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\TypeEmbeded\bin\Debug\TypeEmbeded.pdb
+F:\homework\review\C#\learningHardCSharp\Class\Basic\TypeEmbeded\obj\Debug\TypeEmbeded.csprojResolveAssemblyReference.cache
+F:\homework\review\C#\learningHardCSharp\Class\Basic\TypeEmbeded\obj\Debug\TypeEmbeded.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\TypeEmbeded\obj\Debug\TypeEmbeded.pdb

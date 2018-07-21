@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>8acf0f33-660d-4464-9b60-2cc91d24b85a</ProjectGuid>
+    <ProjectGuid>{1004C47A-801A-47FE-9372-4DF906623BBB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TypeEmbeded</RootNamespace>
@@ -41,8 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enchase.cs" />
+    <Compile Include="IMyList.cs" />
+    <Compile Include="MyClass.cs" />
+    <Compile Include="MyList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Genericity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
