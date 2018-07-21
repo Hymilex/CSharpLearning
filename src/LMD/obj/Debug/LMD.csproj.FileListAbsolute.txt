@@ -1,0 +1,6 @@
+F:\homework\review\C#\learningHardCSharp\Class\Basic\LMD\bin\Debug\LMD.exe.config
+F:\homework\review\C#\learningHardCSharp\Class\Basic\LMD\bin\Debug\LMD.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\LMD\bin\Debug\LMD.pdb
+F:\homework\review\C#\learningHardCSharp\Class\Basic\LMD\obj\Debug\LMD.csprojResolveAssemblyReference.cache
+F:\homework\review\C#\learningHardCSharp\Class\Basic\LMD\obj\Debug\LMD.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\LMD\obj\Debug\LMD.pdb
