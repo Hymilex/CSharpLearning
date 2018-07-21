@@ -1,2 +1,5 @@
-/Bisic/Bisic/bin/*
-
+*.suo
+[Dd]/ebug
+[Rr]ealese/
+[Oo]bj/
+*.user
