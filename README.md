@@ -18,3 +18,5 @@ open  the Visual Studio 2012 with .NET 4.5 Framework.
 
 - Object-Oriented
 - Delegate or delegation
+- TypeValue & TypeReference
+- Generics
