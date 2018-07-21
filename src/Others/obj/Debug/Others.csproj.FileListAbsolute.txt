@@ -1,0 +1,6 @@
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Others\bin\Debug\Others.exe.config
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Others\bin\Debug\Others.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Others\bin\Debug\Others.pdb
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Others\obj\Debug\Others.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Others\obj\Debug\Others.pdb
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Others\obj\Debug\Others.csprojResolveAssemblyReference.cache
