@@ -1,0 +1,6 @@
+F:\homework\review\C#\learningHardCSharp\Class\Basic\4.0\bin\Debug\4.0.exe.config
+F:\homework\review\C#\learningHardCSharp\Class\Basic\4.0\bin\Debug\4.0.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\4.0\bin\Debug\4.0.pdb
+F:\homework\review\C#\learningHardCSharp\Class\Basic\4.0\obj\Debug\4.0.csprojResolveAssemblyReference.cache
+F:\homework\review\C#\learningHardCSharp\Class\Basic\4.0\obj\Debug\4.0.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\4.0\obj\Debug\4.0.pdb
