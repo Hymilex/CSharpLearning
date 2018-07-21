@@ -42,15 +42,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Animal.cs" />
+    <Compile Include="Animals.cs" />
+    <Compile Include="Cat.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="Horse.cs" />
     <Compile Include="IAmericaGreeting.cs" />
     <Compile Include="IChineseGreeting.cs" />
     <Compile Include="ICustomCompare.cs" />
+    <Compile Include="IShow.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Speaker.cs" />
+    <Compile Include="SpecialCat.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

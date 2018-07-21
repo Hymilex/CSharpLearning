@@ -17,6 +17,7 @@ namespace Basic
         public Customer()
         {
             age = 12;
+
             Console.WriteLine("This is a default constructor.");
         }
         public Customer(int age)

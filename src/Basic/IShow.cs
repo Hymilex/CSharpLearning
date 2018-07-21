@@ -8,5 +8,6 @@ namespace Basic
 {
     interface IShow
     {
+        void Show();
     }
 }
