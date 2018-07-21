@@ -1,0 +1,6 @@
+F:\homework\review\C#\learningHardCSharp\Class\Basic\LinqQ\bin\Debug\LinqQ.exe.config
+F:\homework\review\C#\learningHardCSharp\Class\Basic\LinqQ\bin\Debug\LinqQ.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\LinqQ\bin\Debug\LinqQ.pdb
+F:\homework\review\C#\learningHardCSharp\Class\Basic\LinqQ\obj\Debug\LinqQ.csprojResolveAssemblyReference.cache
+F:\homework\review\C#\learningHardCSharp\Class\Basic\LinqQ\obj\Debug\LinqQ.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\LinqQ\obj\Debug\LinqQ.pdb
