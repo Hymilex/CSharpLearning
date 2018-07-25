@@ -20,3 +20,6 @@ open  the Visual Studio 2012 with .NET 4.5 Framework.
 - Delegate or delegation
 - TypeValue & TypeReference
 - Generics
+- Lambda Expression
+- Log4Net-- Log Management Lib
+
