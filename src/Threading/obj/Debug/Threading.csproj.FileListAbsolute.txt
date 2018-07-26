@@ -1,0 +1,6 @@
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Threading\bin\Debug\Threading.exe.config
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Threading\bin\Debug\Threading.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Threading\bin\Debug\Threading.pdb
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Threading\obj\Debug\Threading.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Threading\obj\Debug\Threading.pdb
