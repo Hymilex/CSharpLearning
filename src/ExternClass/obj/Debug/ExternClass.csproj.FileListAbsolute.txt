@@ -1,0 +1,6 @@
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ExternClass\bin\Debug\ExternClass.exe.config
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ExternClass\bin\Debug\ExternClass.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ExternClass\bin\Debug\ExternClass.pdb
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ExternClass\obj\Debug\ExternClass.csprojResolveAssemblyReference.cache
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ExternClass\obj\Debug\ExternClass.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ExternClass\obj\Debug\ExternClass.pdb
