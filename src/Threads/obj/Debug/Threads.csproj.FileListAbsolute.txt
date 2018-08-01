@@ -1,0 +1,6 @@
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Threads\bin\Debug\Threads.exe.config
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Threads\bin\Debug\Threads.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Threads\bin\Debug\Threads.pdb
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Threads\obj\Debug\Threads.csprojResolveAssemblyReference.cache
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Threads\obj\Debug\Threads.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\Threads\obj\Debug\Threads.pdb
