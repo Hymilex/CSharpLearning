@@ -23,4 +23,9 @@ open  the Visual Studio 2012 with .NET 4.5 Framework.
 - Lambda Expression
 - Log4Net-- Log Management Lib
 - ExternMethod Defination & Usage
+- Async await === delegate ==== Fuc<> ==== Action<> ==== this.invoke ===this.beginInvoke
 
+
+### Finally
+
+​	In the end,we might learn GDI,web programming and more practices about dot net. I am willing to make a decision and share with you next learning experience.
