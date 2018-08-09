@@ -1,0 +1,9 @@
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ThreadExtend\bin\Debug\ThreadExtend.exe.config
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ThreadExtend\bin\Debug\ThreadExtend.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ThreadExtend\bin\Debug\ThreadExtend.pdb
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ThreadExtend\obj\Debug\ThreadExtend.csprojResolveAssemblyReference.cache
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ThreadExtend\obj\Debug\ThreadExtend.Form1.resources
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ThreadExtend\obj\Debug\ThreadExtend.Properties.Resources.resources
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ThreadExtend\obj\Debug\ThreadExtend.csproj.GenerateResource.Cache
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ThreadExtend\obj\Debug\ThreadExtend.exe
+F:\homework\review\C#\learningHardCSharp\Class\Basic\ThreadExtend\obj\Debug\ThreadExtend.pdb
